@@ -117,6 +117,11 @@ textarea, input {
     padding: 12px;
     border: 1px solid #cccccc;
 }
+
+.column {
+    width: 33.33%;
+    height: 250px;
+}
  
 .footer {
     background: #666666;
